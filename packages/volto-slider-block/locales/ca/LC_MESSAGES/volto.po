@@ -1,0 +1,115 @@
+# Víctor Fernández de Alba <victor a plone.org>, 2023
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: 2019-07-02 00:11+0200\n"
+"Last-Translator: Víctor Fernández de Alba <victor@plone.org>\n"
+"Language: \n"
+"Language-Team: Català <plone-cat@lists.plone.org>\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Language-Code: ca\n"
+"Language-Name: Catalan\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: plone\n"
+"X-Is-Fallback-For: ca-ad ca-es ca-fr ca-it\n"
+
+#: components/schema
+# defaultMessage: Add item
+msgid "Add item"
+msgstr "Afegir element"
+
+#: components/schema
+# defaultMessage: Autoplay
+msgid "Autoplay"
+msgstr ""
+
+#: components/schema
+# defaultMessage: Delay between transitions (milliseconds)
+msgid "Delay between transitions (milliseconds)"
+msgstr ""
+
+#: components/schema
+# defaultMessage: Description
+msgid "Description"
+msgstr "Descripció"
+
+#: components/schema
+# defaultMessage: Do instant slide transitions?
+msgid "Do instant slide transitions?"
+msgstr ""
+
+#: components/schema
+# defaultMessage: Enable Autoplay?
+msgid "Enable Autoplay?"
+msgstr ""
+
+#: components/DotsAndArrows
+# defaultMessage: Go to slide
+msgid "Go to slide"
+msgstr "Vés a slide"
+
+#: components/schema
+# defaultMessage: Headtitle
+msgid "Headtitle"
+msgstr "Títol de capçalera"
+
+#: components/schema
+# defaultMessage: Image override
+msgid "Image override"
+msgstr "Imatge"
+
+#: components/schema
+# defaultMessage: Item
+msgid "Item"
+msgstr "Element"
+
+#: components/schema
+# defaultMessage: Items
+msgid "Items"
+msgstr "Elements"
+
+#: components/DotsAndArrows
+# defaultMessage: Next slide
+msgid "Next slide"
+msgstr "Següent slide"
+
+#: components/DefaultBody
+#: components/View
+# defaultMessage: Please choose an existing content as source for this element
+msgid "Please choose an existing content as source for this element"
+msgstr "Si us plau, escolleixi un contingut existent per aquest element"
+
+#: components/DotsAndArrows
+# defaultMessage: Previous slide
+msgid "Previous slide"
+msgstr "Anterior slide"
+
+#: components/DefaultBody
+# defaultMessage: Select target
+msgid "Select target"
+msgstr "Selecciona un contingut"
+
+#: components/schema
+# defaultMessage: Slider
+msgid "Slider"
+msgstr "Slider"
+
+#: components/schema
+# defaultMessage: Target
+msgid "Target"
+msgstr ""
+
+#: components/schema
+# defaultMessage: Title
+msgid "Title"
+msgstr "Títol"
+
+#: components/DefaultBody
+# defaultMessage: More info
+msgid "moreInfo"
+msgstr "Més informació"

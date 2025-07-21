@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-27T19:30:59.079Z\n"
+"PO-Revision-Date: 2016-10-22 16:41-0500\n"
+"Last-Translator: German <plone-i18n@lists.sf.net>\n"
+"Language: de\n"
+"Language-Team: German <plone-i18n@lists.sf.net>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Language-Code: de\n"
+"Language-Name: Deutsch\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"X-Is-Fallback-For: de-at de-li de-lu de-ch de-de\n"
+
+#: components/schema
+# defaultMessage: Add item
+msgid "Add item"
+msgstr "Element hinzufügen"
+
+#: components/schema
+# defaultMessage: Autoplay
+msgid "Autoplay"
+msgstr ""
+
+#: components/schema
+# defaultMessage: Delay between transitions (milliseconds)
+msgid "Delay between transitions (milliseconds)"
+msgstr ""
+
+#: components/schema
+# defaultMessage: Description
+msgid "Description"
+msgstr "Beschreibung"
+
+#: components/schema
+# defaultMessage: Do instant slide transitions?
+msgid "Do instant slide transitions?"
+msgstr ""
+
+#: components/schema
+# defaultMessage: Enable Autoplay?
+msgid "Enable Autoplay?"
+msgstr ""
+
+#: components/DotsAndArrows
+# defaultMessage: Go to slide
+msgid "Go to slide"
+msgstr "Gehe zu Slide"
+
+#: components/schema
+# defaultMessage: Headtitle
+msgid "Headtitle"
+msgstr "Kopftitel"
+
+#: components/schema
+# defaultMessage: Image override
+msgid "Image override"
+msgstr "Bild überschreiben"
+
+#: components/schema
+# defaultMessage: Item
+msgid "Item"
+msgstr "Element"
+
+#: components/schema
+# defaultMessage: Items
+msgid "Items"
+msgstr "Elemente"
+
+#: components/DotsAndArrows
+# defaultMessage: Next slide
+msgid "Next slide"
+msgstr "Nächster Slide"
+
+#: components/DefaultBody
+#: components/View
+# defaultMessage: Please choose an existing content as source for this element
+msgid "Please choose an existing content as source for this element"
+msgstr "Bitte wählen sie einen existierenden Inhalt als Quelle für dieses Element aus"
+
+#: components/DotsAndArrows
+# defaultMessage: Previous slide
+msgid "Previous slide"
+msgstr "Vorheriger Slide"
+
+#: components/DefaultBody
+# defaultMessage: Select target
+msgid "Select target"
+msgstr "Ziel"
+
+#: components/schema
+# defaultMessage: Slider
+msgid "Slider"
+msgstr "Slider"
+
+#: components/schema
+# defaultMessage: Target
+msgid "Target"
+msgstr "Ziel"
+
+#: components/schema
+# defaultMessage: Title
+msgid "Title"
+msgstr "Titel"
+
+#: components/DefaultBody
+# defaultMessage: More info
+msgid "moreInfo"
+msgstr "Mehr Info"
